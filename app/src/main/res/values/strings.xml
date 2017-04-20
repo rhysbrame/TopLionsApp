@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TopLionsList</string>
+    <string name="show_lion_activity_title">Lion</string>
 </resources>
